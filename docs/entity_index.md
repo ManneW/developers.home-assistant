@@ -109,4 +109,4 @@ Called when an entity is about to be removed from Home Assistant. Example use: d
 
 ## Changing the entity model
 
-If you want to add a new feature to an entity or any of its subtypes (light, switch, etc), you will need to propose it first in our [architecture repo](https://github.com/home-assistant/architecture/issues). Only additions will be considered that are common features among various vendors.
+If you want to add a new feature to an entity or any of its subtypes (light, switch, etc), you will need to propose it first in our [architecture repo](https://github.com/home-assistant/architecture/issues). Only additions that are common features among various vendors will be considered.
